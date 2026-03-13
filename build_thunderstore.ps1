@@ -3,9 +3,9 @@
 $ModName = "CrazyThursday"
 $OutputZip = ".\bin\Release\CrazyThursday.zip"
 
-# Build the project
+# Build the project（显式指定项目文件，避免同目录多项目时报错）
 Write-Host "Building $ModName..." -ForegroundColor Cyan
-dotnet build -c Release
+dotnet build ".\CrazyThursday.csproj" -c Release
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Build failed!" -ForegroundColor Red
     exit 1
