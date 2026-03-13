@@ -1,7 +1,7 @@
 # Thunderstore Package Builder
 
-$ModName = "CrazyThusday"
-$OutputZip = ".\bin\Release\CrazyThusday.zip"
+$ModName = "CrazyThursday"
+$OutputZip = ".\bin\Release\CrazyThursday.zip"
 
 # Build the project
 Write-Host "Building $ModName..." -ForegroundColor Cyan

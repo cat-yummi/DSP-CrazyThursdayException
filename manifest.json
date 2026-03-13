@@ -1,8 +1,8 @@
 {
-    "name": "CrazyThusdayException",
+    "name": "CrazyThursdayException",
     "version_number": "1.0.0",
     "website_url": "",
-    "description": "Throws CrazyThusdayException after entering the game. 进入游戏后抛出 CrazyThusdayException。",
+    "description": "Throws CrazyThursdayException after entering the game. 进入游戏后抛出 CrazyThursdayException。",
     "dependencies": [
         "xiaoye97-BepInEx-5.4.22"
     ]
