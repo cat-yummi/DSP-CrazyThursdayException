@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace CrazyThursday
 {
-	[BepInPlugin("com.crazy.thursday", "CrazyThursdayException", "1.0.0")]
+	[BepInPlugin("com.crazy.thursday", "CrazyThursdayException", "1.0.1")]
 	public class CrazyThursdayPlugin : BaseUnityPlugin
 	{
 		private void Update()

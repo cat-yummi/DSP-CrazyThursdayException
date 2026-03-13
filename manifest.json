@@ -1,9 +1,9 @@
 {
     "name": "CrazyThursdayException",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "",
-    "description": "Throws CrazyThursdayException after entering the game. 进入游戏后抛出 CrazyThursdayException。",
+    "description": "Throw CrazyThursdayException on Thursday",
     "dependencies": [
-        "xiaoye97-BepInEx-5.4.22"
+        "xiaoye97-BepInEx-5.4.17"
     ]
 }
